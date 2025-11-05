@@ -3,5 +3,6 @@ Practical examples on agents creation for the course "Разработка аг�
 
 - [RAG from scratch](https://github.com/KarineAyrs/agents-examples/blob/master/rag/rag.ipynb)
 - [RAG with langchain](https://github.com/KarineAyrs/agents-examples/blob/master/rag/LangChainRAG.ipynb)
-- Basic Tool definitions
-- Agentic RAG 
+- [Basic Tool definitions](https://github.com/KarineAyrs/agents-examples/blob/master/agents_basics/calc_agent.ipynb)
+- [Agentic RAG](https://github.com/KarineAyrs/agents-examples/blob/master/agents_basics/agentic_rag.ipynb)
+- [Guardrails](https://github.com/KarineAyrs/agents-examples/blob/master/agents_basics/Guardrails.ipynb)
