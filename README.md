@@ -14,4 +14,4 @@ Practical examples on agents creation for the course "Разработка аг�
   - Unordered match
   - Superset & subset
   - LLM as a Judge
-- [Logging based on middleware](https://github.com/KarineAyrs/agents-examples/blob/master/testing_and_logging/LogggingAgents.ipynb)
+- [Logging based on middleware](https://github.com/KarineAyrs/agents-examples/blob/master/testing_and_logging/LoggingAgents.ipynb)
